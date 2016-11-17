@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cxywork/!svn/ver/751/eaiWarningQDX/src/com/cxy/warning/mysql
+END
+Running.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cxywork/!svn/ver/750/eaiWarningQDX/src/com/cxy/warning/mysql/Running.java
+END
+MysqlConn.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cxywork/!svn/ver/750/eaiWarningQDX/src/com/cxy/warning/mysql/MysqlConn.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cxywork/!svn/ver/750/eaiWarningQDX/src/com/cxy/warning/mysql/Message.java
+END
+EAIKit.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cxywork/!svn/ver/751/eaiWarningQDX/src/com/cxy/warning/mysql/EAIKit.java
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cxywork/!svn/ver/750/eaiWarningQDX/src/com/cxy/warning/mysql/Window.java
+END
+InitMysql.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cxywork/!svn/ver/750/eaiWarningQDX/src/com/cxy/warning/mysql/InitMysql.java
+END
+SmsKit.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cxywork/!svn/ver/750/eaiWarningQDX/src/com/cxy/warning/mysql/SmsKit.java
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cxywork/!svn/ver/750/eaiWarningQDX/src/com/cxy/warning/mysql/jdbc.properties
+END
